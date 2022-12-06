@@ -1,0 +1,5 @@
+export { default as BasicInfo } from './BasicInfo'
+export { default as DetailsInfo } from './DetailsInfo'
+export { default as PriceAndStock } from './PriceAndStock'
+export { default as ServiceAndDelivery } from './ServiceAndDelivery'
+export { default as  SummaryPage} from './SummaryPage'
